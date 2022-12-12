@@ -1,0 +1,1 @@
+function showMenu(){document.querySelector(".header__menu").classList.toggle("active")}
